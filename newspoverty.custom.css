@@ -21,11 +21,6 @@
 	margin: 10px 0;
 }
 
-.ContentDockPopupTab.PopupTab {
-	height: 32px;
-	position: relative;
-}
-
 .WizardTitle>ul>li.current:before {
 	display: none;
 }
