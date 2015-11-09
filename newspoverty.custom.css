@@ -162,8 +162,6 @@ span.tab-2.active:before {
     background-image: url('http://more.geolive.ca/administrator/components/com_geolive/assets/Map%20Item%20Icons/sm_info.png?tint=rgb(100, 149, 237)');
 }
 
-
-
 .discussionTab .count.hasPosts:before {
     position: absolute;
     top: 7px;
@@ -209,7 +207,6 @@ span.tab.active:after {
 	left: -4px;
 	top: 0;
 }
-
 
 .pb-modules-viewer .label.top-left {
 	display: block;
