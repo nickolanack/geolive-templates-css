@@ -1,0 +1,115 @@
+/* discussion posts */
+
+.discussion .posts .post.same-u .text .content:before {
+bottom: 16px;
+}
+
+.discussion .posts .post .text .content:before {
+bottom: 30px;
+}
+
+.discussion .post .date {
+padding-top:12px;
+}
+
+.discussion .post.same-u .date {
+padding-top:0px;
+}
+
+span.t-btn.upload-button {
+background-color:#fff;
+}
+.discussion .post .user {
+padding-top:0px
+}
+
+span.t-btn.send {
+background-color: white;
+}
+
+.discussion-textbox {
+width: calc(100% - 63px);
+margin-top: 8px;
+}
+
+.discussion-upload .tabs .tabs {
+width:215px;
+}
+
+/*wizard*/
+span.search-bar-tab>span {
+	font-size: 20px;
+	font-weight: 100;
+	padding: 2px 35px 2px 10px;
+}
+
+
+
+.upload-btns .tabs span.noIcon.audio {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-music.png");
+	background-size: 32px auto;
+}
+
+.upload-btns .tabs span.noIcon.document {
+	display: none;
+}
+
+.upload-btns .tabs span.noIcon.image {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-image.png");
+	background-size: 32px auto;
+}
+
+.upload-btns .tabs span.noIcon.video {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-video.png");
+	background-size: 32px auto;
+}
+
+
+.upload-btns .tabs img,div.tabs .noIcon {
+	border: none;
+}
+
+.upload-btns .tabs {
+	bottom: 0;
+	height: 95px;
+}
+
+.upload-btns .AdvancedEditorContainer {
+	position: relative;
+	padding-bottom: 38px;
+}
+
+.upload-btns .tabs span.noIcon {
+	height: 32px;
+	width: 32px;
+}
+
+.upload-btns .tabs .tabs_container {
+	width: 200px;
+}
+
+.upload-btns .tabs .tabs {
+	width: 200px
+}
+
+.upload-btns .ToolbarBottom {
+	margin-top: 40px;
+	display: block;
+}
+
+.upload-btns .WizardButton {
+	background-color: #777777;
+	border: 1px solid black;
+	border-radius: 2px 2px 2px 2px;
+	cursor: pointer;
+	float: right;
+	list-style: none outside none;
+	margin-left: 2px;
+	overflow: hidden;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-top: 0;
+}
